@@ -1,2 +1,2 @@
 # BPK-Resultater
-Statisk side for resultatlister i Bodung Pistolklubb
+Henter data fra resultatliste inn i repoet som json, og lager deretter "chunks".
