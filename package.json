@@ -1,0 +1,16 @@
+{
+  "name": "sheets-data-fetch",
+  "version": "1.0.0",
+  "description": "Fetch data from Google Sheets",
+  "scripts": {
+    "fetch": "tsx fetch_data.ts"
+  },
+  "dependencies": {
+    "googleapis": "^140.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
+  }
+}
