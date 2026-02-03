@@ -2,7 +2,7 @@ name: Update Data from Google Sheets
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
 jobs:
